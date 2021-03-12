@@ -1,0 +1,50 @@
+[
+  {
+    "image": "assets/img/Food/banhbotloc.jpg",
+    "titre": "Gateau de riz",
+    "soustitre": "Specialité de Hue - centre au Vietnam ",
+    "text": "Description 1",
+    "id_food": "1",
+    "id_cate": "1"
+  },
+  {
+    "image": "assets/img/Food/comtambao.jpg",
+    "titre": "Riz avec porc",
+    "soustitre": "Riz avec du porc assaisonné",
+    "text": "Description 4",
+    "id_food": "4",
+    "id_cate": "1"
+  },
+  {
+    "image": "assets/img/Food/chaocanh.jpeg",
+    "titre": "Soupe",
+    "soustitre": "Specialité de Vinh - centre au Vietnam",
+    "text": "Description 2",
+    "id_food": "2",
+    "id_cate": "2"
+  },
+  {
+    "image": "assets/img/Food/chaogango.jpg",
+    "titre": "Soupe Poulet",
+    "soustitre": "Soupe de riz mélangé avec poulet",
+    "text": "Description 3",
+    "id_food": "3",
+    "id_cate": "2"
+  },
+  {
+    "image": "assets/img/Food/pancake.jpg",
+    "titre": "Pancake",
+    "soustitre": "Un bon petit-déjeuner",
+    "text": "Description 5",
+    "id_food": "5",
+    "id_cate": "3"
+  },
+  {
+    "image": "assets/img/Food/xoaidam.JPG",
+    "titre": "Mangue",
+    "soustitre": "Mangue avec piment niveau 1",
+    "text": "Description 6",
+    "id_food": "6",
+    "id_cate": "3"
+  }
+]
